@@ -1,8 +1,4 @@
-#
-# Module: tf_aws_rds
-#
 
-# RDS Instance Variables
 
 variable "rds_instance_identifier" {
   description = "Custom name of the instance"
